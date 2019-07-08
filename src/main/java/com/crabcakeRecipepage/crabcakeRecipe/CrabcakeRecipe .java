@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FindYourTaskApplication {
+public class CrabcakeRecipe  {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FindYourTaskApplication.class, args);
+		SpringApplication.run(CrabcakeRecipe .class, args);
 	}
 
 }
